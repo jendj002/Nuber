@@ -1,0 +1,32 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyd2896bf3d9a44-staging-165002-authRole",
+      "UnauthRoleArn": "arn:aws:iam::340264020385:role/amplify-amplifyd2896bf3d9a44-staging-165002-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::340264020385:role/amplify-amplifyd2896bf3d9a44-staging-165002-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyd2896bf3d9a44-staging-165002-deployment",
+      "UnauthRoleName": "amplify-amplifyd2896bf3d9a44-staging-165002-unauthRole",
+      "StackName": "amplify-amplifyd2896bf3d9a44-staging-165002",
+      "StackId": "arn:aws:cloudformation:us-east-1:340264020385:stack/amplify-amplifyd2896bf3d9a44-staging-165002/40d670a0-4729-11ed-b543-0a97a5b68e3b",
+      "AmplifyAppId": "du6xvv1yrnbpy",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-amplifyd2896bf3d9a44-staging-165002-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "nubermanualconfig": {}
+      },
+      "function": {
+        "nubermanualconfigPostConfirmation": {
+          "GROUP": "Staff",
+          "deploymentBucketName": "amplify-amplifyd2896bf3d9a44-staging-165002-deployment",
+          "s3Key": "amplify-builds/nubermanualconfigPostConfirmation-4177416348444c367a4f-build.zip"
+        },
+        "AdminQueriesbcd5168b": {
+          "deploymentBucketName": "amplify-amplifyd2896bf3d9a44-staging-165002-deployment",
+          "s3Key": "amplify-builds/AdminQueriesbcd5168b-716b715338487a4c6a50-build.zip"
+        }
+      }
+    }
+  }
+}

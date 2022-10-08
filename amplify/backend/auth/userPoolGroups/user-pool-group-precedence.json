@@ -1,0 +1,14 @@
+[
+  {
+    "groupName": "NuberStaff",
+    "precedence": 1
+  },
+  {
+    "groupName": "NuberDriver",
+    "precedence": 2
+  },
+  {
+    "groupName": "Customer",
+    "precedence": 3
+  }
+]
